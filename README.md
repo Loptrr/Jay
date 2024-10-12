@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay L. Tabujara</h1>
-<h3 align="center">A passionate student from the Philippines</h3>
+<h3 align="center">A passionate student from the University of Cebu, combining a love for programming with a deep interest in music. With a strong dedication to honing technical skills,  I thrives in problem-solving and innovation within the field of information technology.</h3>
 
 - 🌱 I’m currently learning **MySQL and ReactJS**
 
